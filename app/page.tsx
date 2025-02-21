@@ -9,7 +9,6 @@ import {
   ExternalLink,
   Code,
   BookOpen,
-  Award,
   Server,
   Database,
   Cloud,
@@ -19,7 +18,6 @@ import {
   ArrowUp,
 } from "lucide-react";
 import { motion, useScroll, useSpring } from "framer-motion";
-import { Progress } from "@/components/ui/progress";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { useTheme } from "next-themes";
